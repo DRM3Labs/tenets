@@ -14,7 +14,7 @@ These fundamental principles constitute the core of DRM3's mission. They are int
 
 Sovereignty also encompasses resistance to censorship, ensuring that data cannot be arbitrarily restricted or censored. To illustrate this concept, consider a USB drive where you exercise complete ownership and control. Similarly, envision a USB drive connected to a LAN under your administration, where you have authority over the Access Control List (ACL). Sovereignty extends this level of control to decentralized networks, like DRM3, making it the antithesis of traditional cloud-based models. In essence, sovereignty empowers individuals and entities to become the ultimate custodians of their data.
 
-# Privacy
+## Privacy
 
 *Privacy* emphasizes the protection and confidentiality of personal and sensitive data:
 
@@ -24,11 +24,11 @@ Sovereignty also encompasses resistance to censorship, ensuring that data cannot
 
 Decentralized technology is indispensable for preserving data sovereignty, ensuring privacy, facilitating ownership, granting control over monetization, and resisting censorship. It empowers data owners to reclaim authority over their data and ensures that they are not merely providers of licensable content and data exchange but true guardians of their digital assets.
 
-# Equitability
+## Equitability
 
 *Equitability* embodies the concept that for data to be maximally utilized, all participants must operate on equal footing, relative to the value they create and consume. The notion that data is typically utilized to only 10% of its potential capacity, similar to our brain's utilization, can be attributed to various factors, with equitability being a significant contributor. To keep an engine running efficiently, all components must function at 100% capacity, with the presence of fuel and the ability to fine-tune the engine. In a data ecosystem, all components, from origin and source to consumption and utility, collectively define how we interact with data and leverage it to enhance our lives. Equitability is inseparable from transparency.
 
-# Transparency
+## Transparency
 
 *Transparency* pertains to the visibility of data. It encompasses understanding where data originates, its source, destination, transformations it undergoes, who accesses it, and how it is utilized. Transparency holds critical importance for data privacy. Presently, the term "data privacy" is somewhat misleading, as we often relinquish our data rights in exchange for free services, and have no insight into who is consuming it, or how it is being monetized. Without transparency, it becomes impossible to ascertain equitability within the data ecosystem.
 
@@ -37,7 +37,7 @@ Decentralized technology is indispensable for preserving data sovereignty, ensur
 
 The core tenets of DRM3, including Sovereignty, Privacy, Equitability, and Transparency, represent a vision of a data ecosystem where individuals and entities have control, fairness, and transparency over their data. However, the journey to realizing these principles can be challenging. It requires overcoming technical complexities, navigating legal and ethical landscapes, and developing the necessary tools for implementation.
 
-# DRM3's Mission
+## DRM3's Mission
 
 DRM3's mission is to bridge this gap by making these fundamental principles easily accessible to the builders, creators, and consumers of data and content. It understands that while the concept of data sovereignty, privacy, equitability, and transparency is groundbreaking, it remains out of reach for many due to its complexity.
 
