@@ -35,24 +35,24 @@ Decentralized technology is indispensable for preserving data sovereignty, ensur
 
 # Empowering the Data Ecosystem
 
-The core tenets of DRM3, including Sovereignty, Privacy, Equitability, and Transparency, represent a vision of a data ecosystem where individuals and entities have control, fairness, and transparency over their data. However, the journey to realizing these principles can be challenging. It requires overcoming technical complexities, navigating legal and ethical landscapes, and developing the necessary tools for implementation.
+The core tenets of DRM3, including Sovereignty, Privacy, Equitability, and Transparency, represent a vision for data ecosystems where individuals and enterprising entities have control, fairness, and transparency over their data. However, the journey to realizing these principles can be challenging. It requires overcoming technical complexities, navigating legal and ethical landscapes, and developing the necessary tools for implementation.
 
 ## DRM3's Mission
 
-DRM3's mission is to bridge this gap by making these fundamental principles easily accessible to the builders, creators, and consumers of data and content. It understands that while the concept of data sovereignty, privacy, equitability, and transparency is groundbreaking, it remains out of reach for many due to its complexity.
+DRM3's mission is to bridge this gap by making these fundamental principles easily accessible to the builders, creators, and consumers of data and content. We understand that while the concept of data sovereignty, privacy, equitability, and transparency is groundbreaking, it remains out of reach for many due to its complexity.
 
 **Turning Vision into Reality**
 
-To bring this vision to life, DRM3 is committed to simplifying and democratizing access to these principles:
+To bring this vision to life, DRM3 is committed to simplifying and democratizing access to these principles with:
 
-- **User-Friendly Interfaces (UI):** DRM3 aims to create intuitive and user-friendly interfaces that empower individuals and organizations to exercise sovereignty over their data effortlessly. These interfaces will allow users to manage access, control licensing, and protect their privacy without the need for technical expertise.
+- **User-Friendly Interfaces (UI):** Intuitive and user-friendly interfaces that empower individuals and organizations to exercise sovereignty over their data, and fine tune their data engines, allowing users to manage access, control licensing, and protect their privacy without the need for specialized DLT expertise.
 
-- **SDK Tooling:** For developers and creators, DRM3 is developing Software Development Kits (SDKs) that streamline the integration of decentralized technologies into applications and services. These SDKs will facilitate the implementation of data sovereignty and privacy features, making it accessible to a wider range of developers.
+- **SDK Tooling:** For developers and creators, DRM3 is developing Software Development Kits (SDKs) that streamline the integration of decentralized technologies into applications and services. These SDKs facilitate the implementation of data sovereignty and privacy features, making it accessible to a wider range of developers.
 
-- **Smart Contracts:** Smart contracts on decentralized networks play a pivotal role in enabling transparent and automated data transactions. DRM3 is committed to providing easy-to-use smart contract templates that can be customized to suit specific data use cases.
+- **Smart Contracts:** Smart contracts on decentralized networks play a pivotal role in enabling transparent and automated data transactions. DRM3 is committed to providing easy-to-use smart contract templates that can be customized to suit specific data use cases.  A "TrustSwap" for data ecosystems.
 
 **Empowering Builders and Creators**
 
-DRM3 envisions a future where builders and creators, regardless of their technical background, can incorporate data sovereignty, privacy, equitability, and transparency into their projects seamlessly. This empowerment extends beyond technology into the realms of ethics, law, and policy, ensuring that individuals and entities have the knowledge and tools to navigate the evolving data landscape confidently.
+DRM3 envisions a future where builders and creators, regardless of their technical background, seamlessly integrate data sovereignty, privacy, equitability, and transparency into their projects. This empowerment extends beyond technology to encompass licensing, ethics, and legal aspects, ensuring that individuals and entrepreneurial entities possess the knowledge and tools to efficiently and confidently engage with and harness the collective value contribution to the data economy, resulting in equitable and representative rewards.
 
-DRM3's mission is not just about promoting a set of principles; it's about turning those principles into accessible and practical solutions. By providing user-friendly interfaces, SDK tooling, and smart contracts... otherwise referred to as "enablement tooling", DRM3 empowers individuals, creators, and consumers to participate in a data ecosystem that upholds their rights and values, creating a more equitable and transparent digital future for all.
+DRM3's mission transcends mere promotion of principles; it's about transforming these principles into accessible and pragmatic solutions. Through the provision of user-friendly interfaces, SDK tooling, and smart contracts, collectively referred to as "enablement tooling," DRM3 empowers individuals, creators, and consumers to actively participate in a data ecosystem that safeguards their rights and values. This endeavor paves the way for a digital future that is more equitable, transparent, and inclusive for all.
