@@ -25,3 +25,5 @@ Key components of a data ecosystem include:
 9. **Data Ethics:** The ethical considerations and guidelines related to data collection, usage, and sharing, emphasizing responsible and fair practices.
 
 A well-functioning data ecosystem is essential for organizations and societies to harness the full potential of data, enabling informed decision-making, innovation, and economic growth while respecting privacy and security concerns. It involves the collaboration and coordination of various stakeholders to ensure that data is managed and used in a way that benefits all parties involved.
+
+> As data ecosystems evolve, the coordination of data, compute, and workflows will increasingly shift toward programmable, composable systems where routing, execution, and verification occur dynamically across distributed infrastructure.
