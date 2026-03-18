@@ -1,3 +1,5 @@
+> A modern data ecosystem is not merely a collection of systems, but a programmable environment in which data, compute, and workflows can be dynamically composed, routed, and verified across distributed infrastructure.
+
 # Data Ecosystems
 
 A **data ecosystem** refers to the interconnected network of various entities, technologies, processes, and individuals involved in the creation, collection, storage, management, analysis, sharing, and utilization of data. It encompasses the entire lifecycle of data, from its generation or acquisition to its ultimate purpose, which may include decision-making, insights generation, innovation, and value creation.
